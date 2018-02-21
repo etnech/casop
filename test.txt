@@ -4,3 +4,4 @@ here we go, add exta text after first branch commit
 
 this is a line from master
 
+ok last change from branch
