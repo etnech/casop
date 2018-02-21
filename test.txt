@@ -7,3 +7,5 @@ this is a line from master
 ok last change from branch
 
 master goes at the end
+
+this change stays in branch 1
